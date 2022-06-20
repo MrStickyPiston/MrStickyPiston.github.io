@@ -24,9 +24,9 @@ sellix:  **[stickypiston](https://stickypiston.sellix.io/)** or at
 
 ## Contact
 
-discord: **MR_sticky_piston#8052**
+![](https://img.shields.io/badge/Discord-MR__sticky__piston%238052-blue)
 
-youtube: **[Sticky Piston](https://www.youtube.com/channel/UCHrlDTG3N3E16ExymBjhO4Q)**
+**[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCHrlDTG3N3E16ExymBjhO4Q?style=social)](https://www.youtube.com/channel/UCHrlDTG3N3E16ExymBjhO4Q)**
 
-reddit:  **[MR sticky piston](https://www.reddit.com/user/MR_sticky_piston)**
+**[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/MR_sticky_piston?style=social)](https://www.reddit.com/user/MR_sticky_piston)**
 
