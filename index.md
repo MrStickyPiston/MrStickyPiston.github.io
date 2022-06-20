@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<div class="homepage"></div>
 
 ## About me
 I am a programmer who likes to build discord bots in JavaScript, 
