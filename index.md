@@ -24,7 +24,7 @@ sellix:  **[stickypiston](https://stickypiston.sellix.io/)** or at
 
 ## Contact
 
-![](https://img.shields.io/badge/Discord-MR__sticky__piston%238052-blue)
+[![Discord Presence](https://lanyard.cnrad.dev/api/700766242268774471)](https://discord.com/users/700766242268774471)
 
 **[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCHrlDTG3N3E16ExymBjhO4Q?style=social)](https://www.youtube.com/channel/UCHrlDTG3N3E16ExymBjhO4Q)**
 
